@@ -1,4 +1,4 @@
-# 200-ai-prompts-for-openclaw-skills-development
+# 200 AI Prompts for OpenClaw Skills Development
 
 Revolutionize your learning with this exclusive pack of 200 unique and engaging AI prompts designed specifically for OpenClaw Skills Development. These prompts will help you master the skillset needed
 
@@ -14,7 +14,7 @@ Revolutionize your learning with this exclusive pack of 200 unique and engaging 
 ## Sample
 
 ```json
-Keys: title, description, price
+"How can I improve my time management skills using OpenClaw techniques?"
 ```
 
 ## Usage
